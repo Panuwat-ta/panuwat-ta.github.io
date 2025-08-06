@@ -1,4 +1,4 @@
-// src/App.jsx - อัพเดทเพื่อใช้ Welcome component
+
 import { useState } from 'react'
 import Welcome from './components/Welcome'
 import StudentCard from './components/StudentCard'
